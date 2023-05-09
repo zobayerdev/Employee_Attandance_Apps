@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
         }
         switch (item.getItemId()) {
 
-/*            case R.id.nav_developer:
+         /*   case R.id.nav_developer:
                 Toast.makeText(this, "Developer", Toast.LENGTH_SHORT).show();
                 final Dialog dialog = new Dialog(this);
                 dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
