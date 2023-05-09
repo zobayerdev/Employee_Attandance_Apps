@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Employee Management System</string>
+
+    <!--app opener-->
+    <string name="start">Open</string>
+    <string name="close">Close</string>
+
 </resources>
